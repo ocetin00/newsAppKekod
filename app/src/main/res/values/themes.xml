@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NewsAppKekod" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+<!--        <item name="android:windowBackground">#f6f6f6</item>-->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pink_second</item>
+        <item name="colorPrimaryVariant">@color/pink_first</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
